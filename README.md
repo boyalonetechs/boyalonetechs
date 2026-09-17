@@ -15,9 +15,9 @@ I enjoy working on complex projects that combine clean architecture with great u
 ---
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=3C83F6&line=3C83F6&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontColor=FFFFFF&fontAlignY=35" width="100%" />
