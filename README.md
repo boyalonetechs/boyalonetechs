@@ -29,6 +29,11 @@ I enjoy working on complex projects that combine clean architecture with great u
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Tech%20Stack%20&fontSize=24&fontAlignY=35&fontColor=FFFFFF" width="100%" />
+</p>
+
+
 <table border="0" cellspacing="0" cellpadding="10" align="center" style="margin: 0 auto; text-align: center;">
   <tr>
     <td valign="top" align="left">
@@ -72,52 +77,6 @@ I enjoy working on complex projects that combine clean architecture with great u
     <td></td>
   </tr>
 </table>
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Tech%20Stack%20&fontSize=24&fontAlignY=35&fontColor=FFFFFF" width="100%" />
-</p>
-
-
-<table border="0" cellspacing="0" cellpadding="10" align="center" style="margin: 0 auto; text-align: center;">
-  <tr>
-    <td valign="top" align="left">
-      <strong>💻 Frontend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-    </td>
-    <td valign="top" align="left">
-      <strong>⚙️ Backend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,supabase,redis,sqlite" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="left">
-      <strong>📱 Mobile</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,flutter" />
-    </td>
-    <td valign="top" align="left">
-      <strong>🔤 Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,mysql,bash" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" align="left">
-      <strong>☁️ Cloud & Storage</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,netlify" />
-    </td>
-    <td valign="top" align="left">
-      <strong>🌿 Version Control</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2" align="left">
-      <strong>🎨 Tools & Design</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 <h3 align="center">🔗 Connect With Me</h3>
