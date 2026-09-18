@@ -29,35 +29,49 @@ I enjoy working on complex projects that combine clean architecture with great u
 </p>
 
 
-<table border="0" align="center" style="border-collapse: collapse; text-align: center; width: 100%;">
+<table border="0" cellspacing="0" cellpadding="10" align="center" style="margin: 0 auto; text-align: center;">
   <tr>
-    <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
-      <h4 style="color: #3C83F6; margin-top: 0;">Multiplayer Gaming Platform</h4>
-      <p style="font-size: 13px; color: #c9d1d9;">
-        Building a real-time multiplayer gaming platform with seamless gameplay, matchmaking, leaderboards, and live player interactions.
-      </p>
+    <td valign="top" align="left">
+      <strong>💻 Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
     </td>
-    <td width="4%" align="center" valign="middle">
-      <b style="font-size: 20px; color: #3C83F6;">—</b>
+    <td valign="top" align="left">
+      <strong>⚙️ Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django" />
     </td>
-    <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
-      <h4 style="color: #E83F01; margin-top: 0;">Networking Social Platform</h4>
-      <p style="font-size: 13px; color: #c9d1d9;">
-        Developing a modern social networking platform focused on professional and community connections with real-time engagement.
-      </p>
-    </td>
-    <td width="4%" align="center" valign="middle">
-      <b style="font-size: 20px; color: #E83F01;">—</b>
-    </td>
-    <td width="30%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background-color: #0d1117;">
-      <h4 style="color: #3C83F6; margin-top: 0;">AI Model</h4>
-      <p style="font-size: 13px; color: #c9d1d9;">
-        Working on an AI model to power intelligent features such as recommendations, matchmaking, and personalization.
-      </p>
+    <td valign="top" align="left">
+      <strong>🗄️ Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,sqlite,mysql" />
     </td>
   </tr>
-</table>
 
+  <tr>
+    <td valign="top" align="left">
+      <strong>📱 Mobile</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,flutter" />
+    </td>
+    <td valign="top" align="left">
+      <strong>🔤 Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,bash" />
+    </td>
+    <td valign="top" align="left">
+      <strong>☁️ Cloud & Storage</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,netlify" />
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" align="left">
+      <strong>🌿 Version Control</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+    </td>
+    <td valign="top" align="left">
+      <strong>🎨 Tools & Design</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 ---
 
 <p align="center">
