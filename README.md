@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/boyalonetechs">
-    <img src="https://pbs.twimg.com/profile_banners/1738800095389224960/1786660168/1500x500" alt="Divine - Software Developer | SEO Engineer | DevOps Engineer" width="100%" style="border-radius: 50%;" />
+    <img src="https://ik.imagekit.io/spitndu0j/Boy%20Alone%20Techs/Divine%20Timothy%20Tech%20Portfolio%20Banner.png" alt="Divine - Software Developer | SEO Engineer | DevOps Engineer" width="100%" style="border-radius: 50%;" />
   </a>
 </p>
 
