@@ -40,6 +40,11 @@ I enjoy working on complex projects that combine clean architecture with great u
 <img src="https://img.shields.io/github/stars/boyalonetechs?label=TOTAL%20STARS&style=for-the-badge&color=1d67bc" />
 </div>
 
+<div style="display: flex; margin-bottom: 10%;" align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boyalonetechs&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boyalonetechs&theme=github_dark" />
+</div>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1d67bc&height=100&section=header&text=Tech+Stack&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
@@ -54,7 +59,7 @@ I enjoy working on complex projects that combine clean architecture with great u
     </td>
     <td valign="top" align="left">
       <strong>Backend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django" />
+      <img src="https://skillicons.dev/icons?i=rust,nodejs,nestjs,express,django" />
     </td>
     <td valign="top" align="left">
       <strong>Databases</strong><br/><br/>
@@ -89,7 +94,6 @@ I enjoy working on complex projects that combine clean architecture with great u
     <td></td>
   </tr>
 </table>
----
 
 <h3 align="center">Connect With Me</h3>
 
