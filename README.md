@@ -16,7 +16,7 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph-henna-ten.vercel.app/graph?username=boyalonetechs&theme=react-dark&hide_border=true&area=true"
+    src="https://github-readme-activity-graph-henna-ten.vercel.app/graph?username=boyalonetechs&theme=react-dark&hide_border=true&area=true&color=94C9F4"
     alt="GitHub Activity Graph"
     width="100%"
   />
@@ -24,7 +24,7 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5BCCEB&height=120&section=header&text=Currently+Working+On&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=94C9F4&height=100&section=header&text=Currently+Working+On&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
 </p>
 
 
@@ -37,7 +37,7 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5BCCEB&height=120&section=header&text=Tech+Stack&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=94C9F4&height=100&section=header&text=Tech+Stack&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
 </p>
 
 
