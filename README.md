@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 I am a **Software Engineer**, specializing in building modern, scalable, and user-centric  applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
 
@@ -43,41 +43,41 @@ I enjoy working on complex projects that combine clean architecture with great u
 <table border="0" cellspacing="0" cellpadding="10" align="center" style="margin: 0 auto; text-align: center;">
   <tr>
     <td valign="top" align="left">
-      <strong>💻 Frontend</strong><br/><br/>
+      <strong>Frontend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
     </td>
     <td valign="top" align="left">
-      <strong>⚙️ Backend</strong><br/><br/>
+      <strong>Backend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django" />
     </td>
     <td valign="top" align="left">
-      <strong>🗄️ Databases</strong><br/><br/>
+      <strong>Databases</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,sqlite,mysql" />
     </td>
   </tr>
 
   <tr>
     <td valign="top" align="left">
-      <strong>📱 Mobile</strong><br/><br/>
+      <strong>Mobile</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=react,flutter" />
     </td>
     <td valign="top" align="left">
-      <strong>🔤 Languages</strong><br/><br/>
+      <strong>Languages</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,bash" />
     </td>
     <td valign="top" align="left">
-      <strong>☁️ Cloud & Storage</strong><br/><br/>
+      <strong>Cloud & Storage</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,docker,netlify" />
     </td>
   </tr>
 
   <tr>
     <td valign="top" align="left">
-      <strong>🌿 Version Control</strong><br/><br/>
+      <strong>Version Control</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
     </td>
     <td valign="top" align="left">
-      <strong>🎨 Tools & Design</strong><br/><br/>
+      <strong>Tools & Design</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=vscode,linux,postman,figma" />
     </td>
     <td></td>
@@ -85,7 +85,7 @@ I enjoy working on complex projects that combine clean architecture with great u
 </table>
 ---
 
-<h3 align="center">🔗 Connect With Me</h3>
+<h3 align="center">Connect With Me</h3>
 
 <p align="center">
   <a href="https://x.com/boyalonetechs" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-4285F4?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -95,4 +95,4 @@ I enjoy working on complex projects that combine clean architecture with great u
   <a href="https://boyalonetechs.onrender.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:boyalonetechs@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-<p align="center"><i>⭐️ From <a href="https://github.com/boyalonetechs">boyalonetechs</a></i></p>
+<p align="center"><i> From <a href="https://github.com/boyalonetechs">boyalonetechs</a></i></p>
