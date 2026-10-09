@@ -24,7 +24,7 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d67bc&height=100&section=header&text=Currently+Working+On&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1d67bc&height=100&section=header&text=Github+Stats&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
 </p>
 
 
