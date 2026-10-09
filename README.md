@@ -8,16 +8,20 @@
 
 ### 👋 About Me
 
-I am a **Full Stack Developer**, specializing in building modern, scalable, and user-centric  applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
+I am a **Software Engineer**, specializing in building modern, scalable, and user-centric  applications. With a strong command of both mobile apps, frontend and backend technologies, I design and implement complete digital solutions from intuitive user interfaces to robust server-side architectures and cloud infrastructure.
 
 I enjoy working on complex projects that combine clean architecture with great user experiences.
 
 ---
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph-henna-ten.vercel.app/graph?username=boyalonetechs&theme=react-dark&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
-<!-- <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=boyalonetechs&bg_color=00000000&color=3C83F6&line=3C83F6&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p> -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontColor=FFFFFF&fontAlignY=35" width="100%" />
@@ -27,6 +31,8 @@ I enjoy working on complex projects that combine clean architecture with great u
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=boyalonetechs&theme=github-dark&hide_border=true" />
 </p>
+
+
 
 
 <p align="center">
