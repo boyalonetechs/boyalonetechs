@@ -24,8 +24,10 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Currently%20Working%20On&fontSize=24&fontColor=FFFFFF&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5BCCEB&height=120&section=header&text=Currently+Working+On&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
 </p>
+
+
 
 
 <p align="center">
@@ -34,9 +36,8 @@ I enjoy working on complex projects that combine clean architecture with great u
 
 
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C83F6&height=150&section=header&text=%F0%9F%9A%80%20Tech%20Stack%20&fontSize=24&fontAlignY=35&fontColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5BCCEB&height=120&section=header&text=Tech+Stack&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=25" width="100%"/>
 </p>
 
 
