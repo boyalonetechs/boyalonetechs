@@ -74,7 +74,7 @@ I enjoy working on complex projects that combine clean architecture with great u
     </td>
     <td valign="top" align="left">
       <strong>Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,bash" />
+      <img src="https://skillicons.dev/icons?i=ts,js,py,rust,dart,go" />
     </td>
     <td valign="top" align="left">
       <strong>Cloud & Storage</strong><br/><br/>
